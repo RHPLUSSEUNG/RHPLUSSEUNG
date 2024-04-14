@@ -15,9 +15,9 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RHPLUSSEUNG&show_icons=true&theme=default)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RHPLUSSEUNG&count_private=true&show_icons=true&theme=default)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RHPLUSSEUNG&layout=compact&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RHPLUSSEUNG&layout=compact&theme=default&hide=shaderLab,HLSL)
 
 ---
 ### Hi there 👋
