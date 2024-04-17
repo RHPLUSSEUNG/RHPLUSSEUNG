@@ -16,7 +16,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RHPLUSSEUNG&include_all_commits=true&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=RHPLUSSEUNG&hide=shaderLab,HLSL)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=RHPLUSSEUNG&layout=compact&hide=shaderLab,HLSL)
 
 ---
 ### Hi there 👋
