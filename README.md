@@ -16,7 +16,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats-two-lac-15.vercel.app/api?username=RHPLUSSEUNG&include_all_commits=true&count_private=true)
 
-![Top Langs](https://github-readme-stats-two-lac-15.vercel.app/api/top-langs?username=RHPLUSSEUNG&layout=compact&hide=shaderLab,HLSL)
+![Top Langs](https://github-readme-stats-two-lac-15.vercel.app/api/top-langs?username=RHPLUSSEUNG&layout=compact&hide=shaderLab,HLSL,ASP.NET)
 
 
 ---
