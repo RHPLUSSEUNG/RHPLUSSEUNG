@@ -14,6 +14,10 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
+
 ![Anurag's GitHub stats](https://github-readme-stats-two-lac-15.vercel.app/api?username=RHPLUSSEUNG&include_all_commits=true&count_private=true)
 
 ![Top Langs](https://github-readme-stats-two-lac-15.vercel.app/api/top-langs?username=RHPLUSSEUNG&layout=compact&hide=shaderLab,HLSL,ASP.NET)
